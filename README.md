@@ -43,3 +43,21 @@ To see examples of how to use this system, check out [the demo Jupyter notebook]
 
 # License
 This project is published under the [MIT license](LICENSE).
+
+# Acknowledgements
+I would like to thank my supervisors, who guided me through the development of this system:
+-**Internal supervisor**:
+
+Pim Haselager
+
+-**External supervisors**:
+
+Mariska Baartman
+
+Sjoerd Dikkerboom, MSc
+
+Paul Geurts, B
+
+Jasper Meekes, MSc
+
+Arjen VERHULST, BA
