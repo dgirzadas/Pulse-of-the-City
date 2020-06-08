@@ -47,11 +47,11 @@ This project is published under the [MIT license](LICENSE).
 # Acknowledgements
 I would like to thank my supervisors, who guided me through the development of this system:
 
-**Internal supervisor**:
+**Internal supervisor** (Radboud University, Department of Artificial Intelligence):
 
 *Pim Haselager, PhD*
 
-**External supervisors**:
+**External supervisors** (Municipality of Nijmegen):
 
 *Mariska Baartman*
 
