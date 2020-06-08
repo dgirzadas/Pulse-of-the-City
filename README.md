@@ -12,7 +12,7 @@ This module is capable of predicting the number of pedestrians for a certain dat
 
 *(image with the locations shown on a map)*
 
-The predictions are based on an averaging approach - a prediction for a certain date-time is an average count for that day of the week and hour (e.g. Wednesday, 14:00). This value is then scaled, based on an estimated yearly trend and expanded by a confidence interval. This approach has been found to perform better than machine learning-based models (i.e. Support Vector Regression, Multi-Layer Perceptron or Gaussian Process Regression) with the following performance scores:
+The predictions are based on an averaging approach - a prediction for a certain date-time is an average count for that day of the week and hour (e.g. Wednesday, 14:00). This value is then scaled, based on an estimated yearly trend and expanded by a confidence interval. This approach has been found to perform better than machine learning-based models (i.e. Support Vector Regression, Multi-Layer Perceptron or Gaussian Process Regression). The averaging-based model shows the following performance scores:
 
 - **Mean Absolute Error** (Predictions only) = 45.086
 - **Mean Absolute Error** (True value within confidence interval -> Zero error) = 25.02
