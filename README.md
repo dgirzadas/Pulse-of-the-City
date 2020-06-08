@@ -40,4 +40,4 @@ And you are basically good to go!
 To see examples of how to use this system, check out [the demo Jupyter notebook](Demo.ipynb).
 
 # License
-This project is published under the [MIT license](LICENSE.md)
+This project is published under the [MIT license](LICENSE)
