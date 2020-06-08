@@ -1,0 +1,43 @@
+Name,Prediction ID,Zone ID,interp_X,interp_Y
+Plein 1944 primark:West,0,51283,393,875
+Hezelstraat:Hezelstraat,1,51284,96,431
+Kruidvat Burchtstraat:East,2,51285,333,1306
+Molenpoort Ziekerstraat:Koningsplein,3,51286,582,1043
+Busstation bij bord bustijden:Area,4,51287,734,56
+Busstation op hoek richting perrons:Commuters,5,51288,738,93
+Burgemeester Hustinxstraat:Burgemeester Hustinxstraat,6,51289,775,218
+Busstation oversteek stationsplein-Burgemeester Hustinxstraat:Crossing,7,51290,805,118
+Stationsplein:Keizer Karelplein,8,51291,897,137
+Stationsplein gele oversteekplaats:Crossing,9,51292,842,106
+Smetiusstraat:Smetiusstraat,10,51293,686,556
+Kop Molenstraat:Molenstraat,11,51294,782,743
+Coef Van Welderenstraat:Van Welderenstraat,12,51295,779,1062
+Molenpoort Molenstraat:Molenstraat,13,51296,601,900
+Plein 1944 fietsenkelder:Pedestrians-South,14,51297,471,868
+Prikkels Houtstraat:Ganzenheuvel,15,51298,152,756
+Ziekerstraat Coeff:Ziekerstraat,16,51299,723,1118
+Koningsplein Dedicated:Plein1944,17,51300,474,1018
+Van Broeckhuysenstraat Faber:Mariënburg,18,51301,664,1281
+Stationsplein:North,19,51304,849,81
+Stationsplein:South,20,51305,886,75
+Smetiusstraat:Tunnelweg,21,51308,738,475
+Hezelstraat:Parkside,22,51309,111,368
+Prikkels Houtstraat:Lange Hezelstraat,23,51310,163,693
+Prikkels Houtstraat:Stikke Hezelstraat,24,51311,211,831
+Prikkels Houtstraat:Houtstraat,25,51312,226,768
+Coef Van Welderenstraat:Eilbrachtstraat,26,51313,793,943
+Plein 1944 primark:Square,27,51314,448,906
+Plein 1944 primark:East,28,51315,563,750
+Ziekerstraat Coeff:Tweede Walstraat,29,51316,686,1156
+Molenpoort Ziekerstraat:Mariënburg,30,51317,586,1112
+Molenpoort Ziekerstraat:South,31,51318,660,1087
+Koningsplein Dedicated:Ziekerstraat,32,51319,526,1050
+Koningsplein Dedicated:Koningsplein,33,51320,504,1075
+Van Broeckhuysenstraat Faber:East,34,51321,678,1331
+Van Broeckhuysenstraat Faber:West,35,51322,712,1237
+Kruidvat Burchtstraat:West,36,51323,293,1206
+Kruidvat Burchtstraat:Marikenstraat,37,51324,345,1237
+Hertogstraat:Hertogstraat,38,51325,389,1431
+Hertogstraat:Crosswalk,39,51326,345,1437
+Trap waalkade Lindenberg:Balcony,40,51327,100,1418
+Trap waalkade Lindenberg:Stairs,41,51328,133,1437
