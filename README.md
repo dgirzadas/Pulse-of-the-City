@@ -18,6 +18,7 @@ The predictions are based on an averaging approach - a prediction for a certain 
 - **R<sup>2</sup>** = 0.726
 
 This module can be used for any application, related to pedestrian count forecasting or comparison. An example graph of the predictions can be seen below.
+
 *(image with the example prediction graphs)*
 
 ### 2. Spatial interpolation (+ visualisation) module
@@ -25,6 +26,7 @@ This module can be used for any application, related to pedestrian count forecas
 This module is capable of generating interpolated estimations between the 42 locations. By using this module, predictions and observations are not limited to the 42 locations, but are interpolated within a large part of the downtown area of Nijmegen.
 
 An example interpolated prediction map can be seen below.
+
 *(image with the interpolated map)*
 
 # Installation
