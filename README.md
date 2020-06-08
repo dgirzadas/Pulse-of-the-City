@@ -1,7 +1,7 @@
 # Pulse of the City
 A pedestrian traffic prediction and spatial interpolation project for the City Council of Nijmegen.
 
-This project is the result of a Bachelor's thesis project by **Domantas Giržadas, Radboud University, Department of Artificial Intelligence**.
+This project is the result of a Bachelor's thesis project by **Domantas Giržadas, Radboud University, Department of Artificial Intelligence** in collaboration with the Municipality of Nijmegen.
 
 ## Description
 
