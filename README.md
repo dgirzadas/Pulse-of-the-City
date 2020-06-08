@@ -46,18 +46,19 @@ This project is published under the [MIT license](LICENSE).
 
 # Acknowledgements
 I would like to thank my supervisors, who guided me through the development of this system:
--**Internal supervisor**:
 
-Pim Haselager
+**Internal supervisor**:
 
--**External supervisors**:
+*Pim Haselager, PhD*
 
-Mariska Baartman
+**External supervisors**:
 
-Sjoerd Dikkerboom, MSc
+*Mariska Baartman*
 
-Paul Geurts, B
+*Sjoerd Dikkerboom, MSc*
 
-Jasper Meekes, MSc
+*Paul Geurts, B*
 
-Arjen VERHULST, BA
+*Jasper Meekes, MSc*
+
+*Arjen Verhulst, BA*
