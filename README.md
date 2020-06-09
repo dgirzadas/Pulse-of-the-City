@@ -10,7 +10,7 @@ This project contains two modules - pedestrian traffic prediction and spatial in
 ### 1. **Pedestrian traffic prediction module**
 This module is capable of predicting the number of pedestrians for a certain date and time in any of the 42 available locations around the downtown area of Nijmegen, Netherlands.
 
-*(image with the locations shown on a map)*
+<img src="https://i.imgur.com/rEC7WPX.png"/>
 
 The predictions are based on an averaging approach - a prediction for a certain date-time is an average count for that day of the week and hour (e.g. Wednesday, 14:00). This value is then scaled, based on an estimated yearly trend and expanded by a confidence interval. This approach has been found to perform better than machine learning-based models (i.e. Support Vector Regression, Multi-Layer Perceptron or Gaussian Process Regression). The averaging-based model shows the following performance scores:
 
