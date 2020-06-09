@@ -20,7 +20,7 @@ The predictions are based on an averaging approach - a prediction for a certain 
 
 This module can be used for any application, related to pedestrian count forecasting or comparison. An example graph of the predictions can be seen below.
 
-[Imgur](https://i.imgur.com/qJVlIoB.png)
+!(image)[https://i.imgur.com/qJVlIoB.png]
 
 ### 2. Spatial interpolation (+ visualisation) module
 
