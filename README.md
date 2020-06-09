@@ -26,9 +26,9 @@ This module can be used for any application, related to pedestrian count forecas
 
 This module is capable of generating interpolated estimations between the 42 locations. By using this module, predictions and observations are not limited to the 42 locations, but are interpolated within a large part of the downtown area of Nijmegen.
 
-An example interpolated prediction map can be seen below.
+An example interpolated map (random values as "observed" values) can be seen below.
 
-*(image with the interpolated map)*
+<img src="https://i.imgur.com/fnZQW5E.png"/>
 
 # Installation
 
